@@ -11,21 +11,21 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
-minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "defualt", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "defualt", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale: "en-US"
 rtl: # true, false (default) # turns direction of the page into right to left for RTL languages
-title: "Site Title"
+title: "Sami Yakan"
 title_separator: "-"
-subtitle: # site tagline that appears below site title in masthead
-name: "Your Name"
+subtitle: "Software | CyberSec | Gaming" # site tagline that appears below site title in masthead
+name: "Sami Yakan"
 description: "An amazing website."
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://yakandoit.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
-repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+repository: "yakandoit/yakandoit.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser: "assets/images/Ven on X Tom Nook.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo: "assets/images/pixil-frame-0.png" #path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs: # true, false (default)
 words_per_minute: 200
